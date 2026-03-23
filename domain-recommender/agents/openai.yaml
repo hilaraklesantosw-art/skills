@@ -1,0 +1,3 @@
+display_name: Domain Recommender
+short_description: Generate SEO-friendly AI product domains and verify availability before returning suggestions.
+default_prompt: Recommend SEO-friendly, brandable domain names for my AI product idea and verify current availability before answering.
