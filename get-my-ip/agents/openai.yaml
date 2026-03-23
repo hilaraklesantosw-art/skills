@@ -1,0 +1,3 @@
+display_name: Get My IP
+short_description: Return the machine's current public IP address using ifconfig.me.
+default_prompt: Get my current public IP address using curl ifconfig.me.
